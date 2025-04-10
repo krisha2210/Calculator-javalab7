@@ -6,9 +6,9 @@ This is a simple and interactive **Command Line Calculator Application** built i
 
 ## 👤 Student Info
 
-- **Name:** Parnika Jain  
-- **PRN:** 087  
-- **Batch:** B1  
+- **Name:** krisha shah 
+- **PRN:** 24070126512  
+- **Batch:** B3  
 
 ---
 
