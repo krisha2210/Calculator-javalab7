@@ -28,5 +28,4 @@ The calculator supports the following operations:
 
 ---
 
-## 📂 Project Structure
 
